@@ -1,0 +1,68 @@
+Project         : sh.tosedi
+Release version : 20.01
+Last update     : 2020-01-22
+Codepage        : ru_RU.UTF-8
+------------- ---- ------
+
+Table of contents
+1.0. About
+2.0. Supported platform
+3.0. Installing and running
+4.0. File's
+x.x. Licensing
+
+------------- ---- ------
+
+1.0. About
+
+sh.tosedi - Очередная сосательная конфетка для кровавой фс-бни, а также полезный и проверенный набор инструментов для работы с диском GPT.
+
+------------- ---- ------
+
+2.0. Supported platform
+
+sh.tosedi - is scripts shell sh GNU.
+
+------------- ---- ------
+
+3.0. Installing and running
+
+Extract archiv into directory where your want.
+
+------------- ---- ------
+
+4.0. File's
+
+net_init.conf                   : main configuration file
+tosedi_backup.sh                : backup device
+tosedi_restore.sh               : restore device from backup arhiv
+tosedi_shred.sh                 : shred device
+tosedi_toolcheck.sh             : check all other tool's need
+tosedi_unused_clear.sh          : clear unused space
+tosedi_unused_shred.sh          : shred unused space
+AUTHORS                         : o_O
+COPYING                         : GPLx3+
+README                          : this is file
+
+------------- ---- ------
+
+You may give a look for more information about the sh.tosedi to
+URL http://domain
+Mikhail Davydov 'DavydovMA' <dev-sh@domain>
+
+------------- ---- ------
+
+Copyright (C) 1990-2020 Free Software DavydovMA
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
